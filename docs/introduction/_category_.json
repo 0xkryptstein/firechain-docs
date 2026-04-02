@@ -1,0 +1,8 @@
+{
+  "label": "Introduction",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn the fundamentals of FireChain, its purpose, and the core ideas behind the ecosystem."
+  }
+}

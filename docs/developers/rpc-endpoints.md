@@ -1,33 +1,39 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# RPC endpoints and providers
+# Connect to RPC
 
-This tutorial will guide you through the process of connecting MetaMask to Firechain.
+Applications and scripts can connect to FireChain using the official RPC endpoint.
 
-<!-- ### How to add Firechain Mainnet to MetaMask:
+---
 
-Navigate to MetaMask settings, click on Network, and then choose add a network manually.
+## Official RPC
 
-Provide the following details:
-1. Network Name: Firechain
-2. RPC Url: https://rpc1.thefirechain.com
-3. ChainID: 529
-4. Symbol: FIRE
-5. Block Explorer URL: https://firescan.io/
+`https://rpc-rinia.firestation.io`
 
-Click Save. -->
+---
 
-### How to add Rinia to MetaMask:
+## Network Values
 
-Navigate to MetaMask settings, click on Network, and then choose add a network manually.
+```text
+Network Name: Rinia
+RPC URL: https://rpc-rinia.firestation.io
+Chain ID: 917
+Currency Symbol: FIRE
+Block Explorer URL: https://rinia.firescan.io/
+```
 
-Provide the following details:
-1. Network Name: Rinia
-2. RPC Url: https://rpc1.rinia.thefirechain.com
-3. ChainID: 917
-4. Symbol: FIRE
-5. Block Explorer URL: https://rinia.firescan.io/
+## Common Uses
 
-Click Save.
+RPC access is used for:
+
+- Reading blocks and transactions
+- Querying contract state
+- Sending transactions
+- Deploying contracts
+- Powering dApps and dashboards
+
+## Next Step
+
+👉 Continue to [Deploy Contracts](./deploy-contracts)

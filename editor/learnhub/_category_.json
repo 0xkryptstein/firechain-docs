@@ -1,6 +1,6 @@
 {
   "label": "Learn Hub",
-  "position": 2,
+  "position": 12,
   "link": {
     "type": "generated-index",
     "description": "Learn about blockchain technology in the Firechain learnhub."

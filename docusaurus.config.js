@@ -117,11 +117,11 @@ const config = {
             items: [
               {
                 label: "Faucet",
-                href: "https://faucet.thefirechain.com",
+                href: "https://faucet.firestation.io",
               },
               {
                 label: "Explorer",
-                href: "https://firescan.io",
+                href: "https://rinia.firescan.io",
               },
               {
                 label: "GitHub",

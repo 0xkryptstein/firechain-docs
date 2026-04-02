@@ -2,11 +2,54 @@
 sidebar_position: 1
 ---
 
-# What is Firechain
+# Introduction
+
+Welcome to the official FireChain documentation.
+
+FireChain is a blockchain ecosystem built for scalable applications, smart contract deployment, digital assets, and cross-chain interoperability.
+
+This documentation is designed to help both users and developers understand the network, connect wallets, bridge assets, verify official addresses, and build on FireChain with confidence.
+
 ---
 
-### What is Firechain? Why forge with FIRE?
+## What You Can Do with FireChain
 
-Firechain is a decentralized, open-source smart contract platform that is dedicated to delivering swift, secure, and scalable infrastructure for decentralized applications (dApps). Engineered as a cutting-edge blockchain platform, Firechain aims to overcome various constraints seen in current blockchains. 
+With the current FireChain environment, you can:
 
-<!-- What sets Firechain apart from other smart contract platforms is its emphasis on enhancing the performance of the foundational distributed ledger, ensuring there is no compromise on security in exchange for improved efficiency. -->
+- Connect your wallet to the network
+- Bridge FIRE from supported networks
+- Explore official contracts and token addresses
+- Use DonaSwap on Rinia
+- Deploy and test EVM-compatible smart contracts
+- Read on-chain activity through the explorer
+
+---
+
+## What This Documentation Covers
+
+Inside these docs, you will find guidance for:
+
+- Getting started with FireChain
+- Adding the network to your wallet
+- Bridging assets into FireChain
+- Viewing official addresses
+- Using the block explorer
+- Connecting applications through RPC
+- Deploying and verifying contracts
+- Following security best practices
+
+---
+
+## Current Network Environment
+
+FireChain is currently available through its live testing environment centered around Rinia.
+
+The documentation is structured so that current network details can be updated later without needing to rename pages or change the overall docs structure.
+
+---
+
+## Start Here
+
+If you are new to FireChain, begin with the getting started section.
+
+👉 Continue to [Quick Start](./getting-started/quick-start)
