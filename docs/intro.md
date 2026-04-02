@@ -52,4 +52,4 @@ The documentation is structured so that current network details can be updated l
 
 If you are new to FireChain, begin with the getting started section.
 
-👉 Continue to [Quick Start](../getting-started/quick-start)
+👉 Continue to [Quick Start](./getting-started/quick-start)
