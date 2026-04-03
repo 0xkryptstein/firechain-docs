@@ -11,7 +11,7 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero", styles.heroBanner)}>
       <div className="container">
-        <div style={{ marginBottom: "1.5rem" }}>
+        {/* <div style={{ marginBottom: "1.5rem" }}>
           <img
             // src="/img/firechain-hero.png"
             alt="FireChain Documentation"
@@ -23,7 +23,7 @@ function HomepageHeader() {
               margin: "0 auto",
             }}
           />
-        </div>
+        </div> */}
 
         <h1 className="hero__title">FireChain Documentation</h1>
 
