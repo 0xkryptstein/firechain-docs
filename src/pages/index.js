@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <div style={{ marginBottom: "1.5rem" }}>
           <img
-            src="/img/firechain-hero.png"
+            // src="/img/firechain-hero.png"
             alt="FireChain Documentation"
             style={{
               maxWidth: "180px",
